@@ -1,2 +1,2 @@
-# Deodex image of MI6 (version Fastboot):
+# Deodexed image of MI6 (version Fastboot):
 https://drive.google.com/drive/folders/1Zf9e58rfTN1K3M3F4F_81puZgYYMkM4U?usp=sharing
